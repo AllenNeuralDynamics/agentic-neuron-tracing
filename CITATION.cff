@@ -1,8 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-authors:
-- given-names: "Allen Institute for Neural Dynamics"
-title: "agentic-neuron-tracing"
-version: "v0.0.0"
-date-release: 2025-08-14
-url: "https://github.com/AllenNeuralDynamics/agentic-neuron-tracing"
